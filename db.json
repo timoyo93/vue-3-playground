@@ -30,5 +30,34 @@
       "time": "11:00",
       "organizer": "Carey Wales"
     }
+  ],
+  "bingo": [
+    {
+      "quote": "one"
+    },
+    {
+      "quote": "two"
+    },
+    {
+      "quote": "three"
+    },
+    {
+      "quote": "four"
+    },
+    {
+      "quote": "five"
+    },
+    {
+      "quote": "six"
+    },
+    {
+      "quote": "seven"
+    },
+    {
+      "quote": "eight"
+    },
+    {
+      "quote": "nine"
+    }
   ]
 }
